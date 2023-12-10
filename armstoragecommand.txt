@@ -1,0 +1,1 @@
+az deployment group create --name noparameter --resource-group aditi --template-file storagedemoreusable.json --parameters storageName=crtrlstr43sewdr
